@@ -33,3 +33,11 @@ optional arguments:
                         Specifies the folder maximum depth to be analyzed
   -t, --tree-view       Display the result in a tree mode
 ```
+
+![TecProg](https://img.shields.io/badge/TecnicasDeProgramacao-2018.1-red.svg?Cache=true&style=flat-square)
+
+# Testing Diskspace
+
+```shell
+$ python -m unittest test.test_diskspace 
+```
